@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Kris Mandvighar
 
-<!--
-**krishmandvighar-hub/krishmandvighar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 12th Pass | 💻 Learning Python & Excel  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python (Basic)
+- Advanced Excel
+- Communication Skills
+
+---
+
+## 📂 Projects
+- 🔹 Sales Data Analysis (Excel)
+- 🔹 Python Mini Games
+- 🔹 Data Entry Practice Project
+
+---
+
+## 📬 Contact Me
+📧 Email: youremail@gmail.com  
+💼 LinkedIn: your link  
+🌐 Portfolio: your link  
+
+---
+
+## 😄 Fun Fact
+"Coding: 1% writing code, 99% fixing errors 😄"
