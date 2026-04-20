@@ -20,7 +20,7 @@
 ---
 
 ## 📬 Contact Me
-📧 Email: youremail@gmail.com  
+📧 Email:krishmandvighar@gmail.com 
 💼 LinkedIn: your link  
 🌐 Portfolio: your link  
 
