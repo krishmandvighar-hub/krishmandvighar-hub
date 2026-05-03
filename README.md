@@ -23,8 +23,6 @@
 📧 Email:krishmandvighar@gmail.com 
 💼 LinkedIn: https://www.linkedin.com/in/
 kris-mandvighar-419732400
-Vanity URL name
- 
 🌐 Portfolio: your link  
 
 ---
