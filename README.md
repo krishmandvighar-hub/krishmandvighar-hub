@@ -21,8 +21,8 @@
 
 ## 📬 Contact Me
 📧 Email:krishmandvighar@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/
-kris-mandvighar-419732400
+💼 LinkedIn: [https://www.linkedin.com/in/
+kris-mandvighar-419732400](https://www.linkedin.com/in/kris-mandvighar-419732400/)
 🌐 Portfolio: your link  
 
 ---
