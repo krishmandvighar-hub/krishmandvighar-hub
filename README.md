@@ -1,31 +1,53 @@
-# 👋 Hi, I'm Kris Mandvighar
+# 👋 Hello, I'm Kris Mandvighar
 
-🎓 12th Pass | 💻 Learning Python & Excel  
+🎓 Pursuing BCA  
+💻 Python & Data Analysis Enthusiast  
 📍 Mumbai, India  
 
 ---
 
-## 🚀 Skills
-- Python (Basic)
+## 🚀 Technical Skills
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+- R Language
 - Advanced Excel
-- Communication Skills
+- MS Office
+- Data Analysis Basics
 
 ---
 
 ## 📂 Projects
-- 🔹 Sales Data Analysis (Excel)
-- 🔹 Python Mini Games
-- 🔹 Data Entry Practice Project
+🔹 Sales Data Analysis using Excel  
+🔹 Python Mini Games  
+🔹 IPL Data Analysis Project  
+🔹 Data Entry Practice Project  
 
 ---
 
-## 📬 Contact Me
-📧 Email:krishmandvighar@gmail.com 
-💼 LinkedIn: [https://www.linkedin.com/in/
-kris-mandvighar-419732400](https://www.linkedin.com/in/kris-mandvighar-419732400/)
-🌐 Portfolio: your link  
+## 📚 Currently Learning
+- Data Visualization
+- Machine Learning Basics
+- SQL
+- Real-world Data Analysis Projects
+
+---
+
+## 📬 Connect With Me
+📧 Email: krishmandvighar@gmail.com  
+
+💼 LinkedIn:  
+[https://www.linkedin.com/in/kris-mandvighar-419732400](https://www.linkedin.com/in/kris-mandvighar-419732400/)
+
+🌐 Portfolio: your link
+
+---
+
+## 🌟 Career Goal
+Aspiring Data Analyst focused on improving programming, analytics, and problem-solving skills.
 
 ---
 
 ## 😄 Fun Fact
-"Coding: 1% writing code, 99% fixing errors 😄"
+> "Coding teaches patience — every error is part of the journey 😄"
