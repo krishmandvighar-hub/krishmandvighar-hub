@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Kris Mandvighar
-
-🎓 Pursuing BCA  
+ 
 💻 Python & Data Analysis Enthusiast  
 📍 Mumbai, India  
 
