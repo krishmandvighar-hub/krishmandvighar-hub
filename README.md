@@ -39,7 +39,7 @@
 💼 LinkedIn:  
 [https://www.linkedin.com/in/kris-mandvighar-419732400](https://www.linkedin.com/in/kris-mandvighar-419732400/)
 
-🌐 Portfolio: your link
+🌐 Portfolio: file:///E:/students/kris/KRIS/Kris_Professional_Portfolio.html
 
 ---
 
