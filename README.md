@@ -81,13 +81,8 @@ https://www.linkedin.com/in/kris-mandvighar-419732400
 🐙 GitHub:  
 https://github.com/krishmandvighar-hub
 
----
-
-## 📊 GitHub Stats
-
-![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishmandvighar-hub&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmandvighar-hub&layout=compact)
+🌐 Portfolio:  
+(Add your GitHub Pages/Netlify/Vercel portfolio link here)
 
 ---
 
