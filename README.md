@@ -82,7 +82,7 @@ https://www.linkedin.com/in/kris-mandvighar-419732400
 https://github.com/krishmandvighar-hub
 
 🌐 Portfolio:  
-(Add your GitHub Pages/Netlify/Vercel portfolio link here)
+file:///E:/students/kris/KRIS/Kris_Professional_Portfolio.html
 
 ---
 
