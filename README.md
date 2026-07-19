@@ -1,67 +1,86 @@
-# Hi, I'm Kris Mandvighar 👋
+Hi, I'm Kris Mandvighar 👋
 
-### Aspiring Data Analyst | Python Developer | Data Enthusiast
+Aspiring Data Analyst | BCA Student | Python & Power BI Enthusiast
 
-I am a passionate learner focused on Data Analytics, Python Programming, and Business Intelligence. I enjoy working with data, discovering insights, and building projects that strengthen my analytical and problem-solving skills.
-
----
-
-## 🚀 About Me
-
-- 📍 Mumbai, India
-- 🎓 Aspiring Data Analyst
-- 💻 Passionate about Python, SQL, Data Analysis, and Visualization
-- 📊 Interested in transforming raw data into meaningful insights
-- 🌱 Continuously learning and improving technical skills
-- 🎯 Goal: To become a professional Data Analyst and contribute to data-driven decision-making
+I am a Bachelor of Computer Applications (BCA) student with a strong interest in Data Analytics, Python, SQL, and Business Intelligence. I enjoy transforming raw data into meaningful insights through analysis, visualization, and interactive dashboards. I am committed to continuous learning and building real-world projects that enhance my analytical and problem-solving abilities.
 
 ---
 
-## 🛠️ Technical Skills
+🚀 About Me
 
-### Programming Languages
+- 📍 Mumbai, Maharashtra, India
+- 🎓 Bachelor of Computer Applications (BCA) Student
+- 📊 Aspiring Data Analyst
+- 💻 Passionate about Python, SQL, Excel, and Power BI
+- 📈 Interested in Data Analysis, Business Intelligence, and Data Visualization
+- 🌱 Continuously learning new technologies and industry best practices
+- 🎯 Career Goal: To become a skilled Data Analyst and help organizations make data-driven decisions
+
+---
+
+🛠️ Technical Skills
+
+Programming
+
 - Python
 - R
 - SQL (Learning)
 
-### Data Analysis & Visualization
+Data Analysis
+
 - Pandas
 - NumPy
-- Matplotlib
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Data Wrangling
 
-### Productivity Tools
-- Advanced Microsoft Excel
+Data Visualization
+
+- Matplotlib
+- Power BI (Learning)
+- Microsoft Excel Charts
+
+Productivity & Office Tools
+
+- Microsoft Excel (Advanced)
 - Microsoft Office
 - Google Sheets
 
-### Currently Learning
+Currently Learning
+
 - SQL
 - Power BI
 - Machine Learning Fundamentals
-- Data Visualization Techniques
-- Real-World Analytics Projects
+- Data Visualization Best Practices
+- Real-World Business Analytics
 
 ---
 
-## 📂 Projects
+📂 Featured Projects
 
-### 📈 Sales Data Analysis
-Analyzed sales datasets using Excel and Python to identify trends and business insights.
+📊 HR Analytics Dashboard (Power BI)
 
-### 🏏 IPL Data Analysis
-Performed exploratory data analysis on IPL datasets to discover team and player performance patterns.
+Developed an interactive dashboard to analyze employee attrition, workforce demographics, and HR performance metrics using Power BI.
 
-### 🎮 Python Mini Projects
-Developed Python-based mini projects to strengthen programming and problem-solving skills.
+🏏 IPL Data Analysis (Python)
 
-### 📊 Data Analysis Practice Projects
-Worked on data cleaning, transformation, visualization, and reporting using real-world datasets.
+Performed exploratory data analysis on IPL datasets using Python, Pandas, and Matplotlib to uncover team and player performance insights.
+
+📈 Sales Analytics Dashboard
+
+Analyzed sales data using Excel and Python to identify revenue trends, top-performing products, and business opportunities.
+
+📦 Retail Data Analysis
+
+Worked with retail datasets to perform data cleaning, transformation, visualization, and generate actionable business insights.
+
+🎮 Python Mini Projects
+
+Built beginner-friendly Python applications to strengthen programming logic and problem-solving skills.
 
 ---
 
-## 📜 Certifications & Learning
+📜 Certifications & Learning
 
 - Python Programming
 - Data Analysis Fundamentals
@@ -71,29 +90,30 @@ Worked on data cleaning, transformation, visualization, and reporting using real
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-📧 Email: **krishmandvighar@gmail.com**
+📧 Email:
+krishmandvighar@gmail.com
 
-💼 LinkedIn:  
+💼 LinkedIn:
 https://www.linkedin.com/in/kris-mandvighar-419732400
 
-🐙 GitHub:  
+🐙 GitHub:
 https://github.com/krishmandvighar-hub
 
-🌐 Portfolio:  
+🌐 Portfolio:
 https://krishmandvighar-hub.github.io
 
 ---
 
-## 🌟 Career Objective
+🌟 Career Objective
 
-To build a successful career in Data Analytics by continuously improving my technical skills, solving real-world problems with data, and contributing to impactful projects.
+My goal is to build a successful career in Data Analytics by developing practical skills, solving real-world business problems, and creating impactful analytics solutions. I am eager to learn, collaborate, and contribute to innovative, data-driven organizations.
 
 ---
 
-## 💡 Personal Motto
+💡 Personal Motto
 
-> "Every dataset tells a story. My goal is to uncover insights that drive better decisions."
+«"Data is more than numbers—it's the foundation for smarter decisions and meaningful innovation."»
 
-⭐ Feel free to explore my repositories and connect with me for collaboration and learning opportunities.
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories, connect with me on LinkedIn, and collaborate on exciting data analytics projects.
